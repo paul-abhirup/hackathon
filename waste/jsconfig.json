@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "include": ["."],
+    "paths": {
+      "@/*": ["src/*"],
+      "@/models/*": ["./src/models/*"],
+      "@/components/*": ["src/app/components/*"]
+    }
+  }
+}
