@@ -7,6 +7,11 @@ This is How to recycle waste like glass waste and polymer waste as well as colle
 ![Screenshot from 2024-02-11 06-09-09](https://github.com/paul-abhirup/hackathon/assets/109401471/7f064a07-533a-44c4-a516-05fb4a2265b0)
 
 
+<h1>Tech Stacks</h1>
+<p>Next.js for fullstack web app
+Tailwind for styling 
+firebase for the data base and the hosting</p>
+
 
 
 
